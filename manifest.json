@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "astrallist.github.io/happybirthday26/",
+  "start_url": "./happybirthday26/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
